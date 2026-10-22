@@ -28,7 +28,7 @@
     "name": "ales",
     "subtitle": "i mostly make discord bots.",
     "typing": false,
-    "avatarShape": "cookie12",
+    "avatarShape": "pill",
     "chips": [
       {
         "icon": "code",
