@@ -17,7 +17,12 @@
     "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "buttons",
+    "stats",
+    "stack",
+    "about"
+  ],
   "hero": {
     "greeting": "i'm",
     "name": "ales",
@@ -103,21 +108,26 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@ales.js"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "<https://discord.com/users/1044985132777480253>"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:roblox",
+        "url": "https://www.roblox.com/users/3918878171/profile"
+      },
+      {
+        "icon": "link_2",
+        "url": "https://guns.lol/ales.js"
       }
     ],
-    "variant": "chip",
-    "fill": "tonal",
-    "card": true
+    "variant": "icon",
+    "fill": "brand",
+    "card": true,
+    "shape": "pill"
   },
   "buttons": {
     "items": [
