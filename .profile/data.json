@@ -1,5 +1,5 @@
 {
- "key": "df1193ba",
+ "key": "94703f19",
  "stars": 1,
  "contributions": 317,
  "repos": 2,
@@ -99,9 +99,13 @@
    {
     "c": 0,
     "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
     "today": true
    },
-   null,
    null,
    null,
    null
